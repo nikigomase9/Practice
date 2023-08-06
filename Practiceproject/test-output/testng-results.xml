@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64706" started-at="2023-08-06T17:12:22 IST" finished-at="2023-08-06T17:13:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64706" started-at="2023-08-06T17:12:22 IST" finished-at="2023-08-06T17:13:27 IST">
+      <class name="Loginpagetest.Logincase">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:Loginpagetest.Logincase@544a2ea6]" name="openbrowser" is-config="true" duration-ms="18629" started-at="2023-08-06T17:12:22 IST" finished-at="2023-08-06T17:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Loginpagetest.Logincase@544a2ea6]" name="login" duration-ms="11857" started-at="2023-08-06T17:12:41 IST" finished-at="2023-08-06T17:12:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="loginwithinvalidcred()[pri:2, instance:Loginpagetest.Logincase@544a2ea6]" name="loginwithinvalidcred" duration-ms="33186" started-at="2023-08-06T17:12:53 IST" finished-at="2023-08-06T17:13:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidcred -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Loginpagetest.Logincase@544a2ea6]" name="close" is-config="true" duration-ms="906" started-at="2023-08-06T17:13:26 IST" finished-at="2023-08-06T17:13:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Loginpagetest.Logincase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
